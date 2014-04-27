@@ -24,6 +24,6 @@ Se podrá optar por jugar contra la máquina y entre máquinas. En dichos casos 
 
 ## Referencias
 
-[1] Se pretende hacer comparaciones entre distintas estrategias, como podrían ser Tit For Tat (y sus variantes), Chicken, Deterrance, etc. hasta encontrar una Dominante
-[2] [Game Theory, Prisoner’s Dilemma, Nash Equilibrium, Stag Hunts, and Sherlock Holmes… and Counter-Terrorism? 1/2](http://russwbeck.wordpress.com/2009/01/18/sra211reviewgametheory/)
-[3] [Evolving New Strategies: The Evolution of Strategies in the Iterated Prisoner's Dilemma, Robert Axelrod](http://www-personal.umich.edu/~axe/research/Evolving.pdf)
+- [1] Se pretende hacer comparaciones entre distintas estrategias, como podrían ser Tit For Tat (y sus variantes), Chicken, Deterrance, etc. hasta encontrar una Dominante
+- [2] [Game Theory, Prisoner’s Dilemma, Nash Equilibrium, Stag Hunts, and Sherlock Holmes… and Counter-Terrorism? 1/2](http://russwbeck.wordpress.com/2009/01/18/sra211reviewgametheory/)
+- [3] [Evolving New Strategies: The Evolution of Strategies in the Iterated Prisoner's Dilemma, Robert Axelrod](http://www-personal.umich.edu/~axe/research/Evolving.pdf)
